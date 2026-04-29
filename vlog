@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url=https://www.youtube.com/">
+    <script type="text/javascript">
+      window.location.href = "https://www.youtube.com/"
+    </script>
+    <title>Redirection</title>
+  </head>
+  <body>
+    <p>Si vous tu n'es pas redirigé•e, <a href="https://www.youtube.com/">clique ici !</a>.</p>
+  </body>
+</html>
